@@ -1,0 +1,16 @@
+-- TAREFAS:
+1. Abrir o mapa de um inventário gravado
+2. Remover um item de um inventário próprio
+3. Criar um novo inventário com novos itens
+
+-- HEURÍSTICAS:
+- H2: Match between system and the real world
+- H3: User control and freedom
+- H8: Aesthetic and minimalist design
+
+-- TEMPLATE:
+Tarefa:
+Heurística:
+Problema:
+Sugestão para correção:
+Severidade:
